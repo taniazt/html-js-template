@@ -10,8 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/taniazt/html-js-template.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "template",
+    "boilerplate",
+    "html",
+    "scss",
+    "javascript",
+    "parcel",
+    "eslint"
+  ],
+  "author": "Tetiana Zotova",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/taniazt/html-js-template/issues"
